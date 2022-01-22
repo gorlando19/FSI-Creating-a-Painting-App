@@ -8,7 +8,7 @@ body {
 }
 
 .painting {
-    float: left;
+    float: left; 
     width: 90vmin;
     height: 90vmin;
     border-style: solid;
